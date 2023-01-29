@@ -42,10 +42,10 @@ Nevertheless, images can get very large with this program, so have fun <3
 # Examples
 
 ### oculurum with Grayscale
-<img src="https://user-images.githubusercontent.com/96285600/215336539-66aaa909-51fc-424a-918b-5c43621c57f1.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/96285600/215340782-8356a4b1-2fc0-4172-ac7d-7e8096f77e5b.png" width="400"/>
 
 ### oculurum with RGB
-<img src="https://user-images.githubusercontent.com/96285600/215336498-ea7417b4-7cc2-4ac5-a063-9e05e06c4550.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/96285600/215340808-84803a33-4fae-4225-af22-504713663b0d.png" width="400"/>
 
 # Disclaimer
 Be careful sharing images created by `oculurum` as they are an accurate
