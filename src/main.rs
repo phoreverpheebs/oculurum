@@ -248,8 +248,6 @@ fn run<P: AsRef<Path>>(path: P, flags: Flags) -> Result<(), png::EncodingError> 
             }
         });
 
-    dbg!(written);
-    dbg!(dimension*dimension);
     let padding = vec![0;
         (((bytes_per_pixel << 2).checked_mul(dimension.checked_pow(2).unwrap()).unwrap()) as usize)
             .checked_sub(written)
